@@ -1,0 +1,17 @@
+{
+  "name": "react-library-tpl",
+  "version": "1.0.0",
+  "description": "react library develop template ",
+  "main": "dist/index.esm.js",
+  "repository": "https://github.com/gebin/react-library-tpl",
+  "author": "gebin",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build":"father build",
+    "doc:dev":"father doc dev"
+  },
+  "dependencies": {
+    "father": "^2.29.0"
+  }
+}

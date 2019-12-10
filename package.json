@@ -1,0 +1,19 @@
+{
+  "name": "generator-react-library",
+  "version": "1.0.0",
+  "description": "react library develop",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bge",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.2.0"
+  }
+}
