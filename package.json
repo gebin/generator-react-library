@@ -1,7 +1,7 @@
 {
-  "name": "generator-react-library",
-  "version": "1.0.0",
-  "description": "react library develop",
+  "name": "generator-reactjs-library",
+  "version": "1.0.1",
+  "description": "reactjs library develop",
   "files": [
     "generators"
   ],
