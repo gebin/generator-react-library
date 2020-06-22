@@ -20,5 +20,10 @@
   "devDependencies": {
     "commitizen": "^4.1.2",
     "cz-conventional-emoji": "^1.0.2"
+  },
+  "config":{
+    "commitizen":{
+      "path":"node_modules/cz-conventional-emoji"
+    }
   }
 }
